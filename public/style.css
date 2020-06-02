@@ -13,6 +13,7 @@ img {
 .intro {
   position: relative;
   top: -140px;
+  width: auto;
 }
 
 .whyus {
