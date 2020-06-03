@@ -19,3 +19,11 @@ img {
 .whyus {
 text-align: center
 }
+
+.discord-bot-tag{background-color:#7289da;font-size:.65em;margin-left:5px;padding:3px;border-radius:3px;line-height:100%;text-transform:uppercase}.discord-light-theme .discord-message .discord-author-info .discord-bot-tag{color:#fff}.discord-compact-mode .discord-message .discord-author-info{display:-webkit-inline-box;display:inline-flex;-webkit-box-orient:horizontal;-webkit-box-direction:reverse;flex-direction:row-reverse}
+.discord-bot-tag{margin-left:0;margin-right:5px;padding-left:3px;padding-right:3px;font-size:.6em}
+.discord-bot-tag{color:#fff}
+
+.discord-message-timestamp{color:hsla(0,0%,100%,.2);font-size:12px;margin-left:3px}
+.discord-message-timestamp{color:#99aab5}
+.discord-message-timestamp{color:#d1d9de}
